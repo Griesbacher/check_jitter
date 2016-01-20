@@ -1,6 +1,6 @@
 # check_jitter
 Poor man's check_jitter. Measures the jitter by ping or other external tools.
-**Works with python 2 and 3**
+**Works with python 2 and 3, as well on Windows as Linux**
 ##Usage
 ``` bash
 usage: check_jitter.py [-h] [--tool [TOOL]] [-w [WARN]] [-c [CRIT]]
